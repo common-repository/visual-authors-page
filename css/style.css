@@ -1,0 +1,13 @@
+.vauthor-entry {
+    margin: 20px 0 0 0;
+}
+.vauthor-data {
+    float: left;
+    padding: 10px 10px;
+}
+.vauthor-bio {
+    margin: 5px 0 0 20px;
+}
+.vauthor-post-counter {
+    text-align: center;
+}
